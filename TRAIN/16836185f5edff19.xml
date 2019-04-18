@@ -1,0 +1,112 @@
+
+<annotation>
+    <folder>Sea turtles</folder>
+    <filename>16836185f5edff19.jpg</filename>
+    <path>/path/to/the/file/16836185f5edff19.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>681</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Sea turtles</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>159</xmin>
+            <ymin>337</ymin>
+            <xmax>828</xmax>
+            <ymax>583</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>Sea turtles</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>211</xmin>
+            <ymin>27</ymin>
+            <xmax>346</xmax>
+            <ymax>156</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>Sea turtles</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>322</xmin>
+            <ymin>56</ymin>
+            <xmax>422</xmax>
+            <ymax>152</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>Sea turtles</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>418</xmin>
+            <ymin>45</ymin>
+            <xmax>570</xmax>
+            <ymax>146</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>Sea turtles</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>727</xmin>
+            <ymin>502</ymin>
+            <xmax>802</xmax>
+            <ymax>588</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>Sea turtles</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>813</xmin>
+            <ymin>484</ymin>
+            <xmax>917</xmax>
+            <ymax>555</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>Sea turtles</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>874</xmin>
+            <ymin>540</ymin>
+            <xmax>976</xmax>
+            <ymax>598</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>Sea turtles</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>898</xmin>
+            <ymin>476</ymin>
+            <xmax>958</xmax>
+            <ymax>552</ymax>
+        </bndbox>
+</object>
+
+</annotation>

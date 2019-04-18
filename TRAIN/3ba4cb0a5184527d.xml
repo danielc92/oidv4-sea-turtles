@@ -1,0 +1,40 @@
+
+<annotation>
+    <folder>Sea turtles</folder>
+    <filename>3ba4cb0a5184527d.jpg</filename>
+    <path>/path/to/the/file/3ba4cb0a5184527d.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Sea turtles</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>270</xmin>
+            <ymin>443</ymin>
+            <xmax>536</xmax>
+            <ymax>698</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>Sea turtles</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>863</xmin>
+            <ymin>37</ymin>
+            <xmax>1023</xmax>
+            <ymax>163</ymax>
+        </bndbox>
+</object>
+
+</annotation>
